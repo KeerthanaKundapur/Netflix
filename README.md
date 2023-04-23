@@ -1,12 +1,12 @@
 # Netflix
 
-Objective:
+**Objective**:
 The objective of creating a Netflix tableau dashboard is to provide insights to the stakeholders about the different shows streaming on Netflix across different parts of the world. The dashboard aims to help the stakeholders in understanding the ratings, duration, release date, and show added date to Netflix of various shows. This dashboard will assist the stakeholders in making data-driven decisions related to show selection, content creation, and marketing strategies. The primary goal of this project is to provide a comprehensive analysis of the Netflix streaming shows and help the stakeholders in identifying the popular shows and trends across different regions.
 
-Tool: Tableau (For data cleaning and Visualization)
+**Tool**: Tableau (For data cleaning and Visualization)
 	Excel (extract data from excel)
 
-KPI's:
+**KPI's**:
 1.Rating of Netflix shows
 2.Duration of the show
 3.Release year and the show added to Netflix stream
@@ -17,10 +17,10 @@ KPI's:
 8.Total movies and TV shows by year
 9.Number of shows by ratings
 
-Dashboard:
+**Dashboard**:
 <img width="800" alt="NETFLIX DASHBOARD" src="https://user-images.githubusercontent.com/112420165/233814596-69c58673-059f-49f1-aaf2-3f97dc862972.png">
  
-Insights:
+**Insights**:
 
 Netflix dashboard provides valuable insights into the movies and TV shows available on the platform. Through the use of charts and maps, it becomes easy to understand the distribution of content across different countries and genres.
 
