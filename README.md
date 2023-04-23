@@ -7,17 +7,18 @@ Tool: Tableau (For data cleaning and Visualization)
 	Excel (extract data from excel)
 
 KPI's:
->Rating of Netflix shows
->Duration of the show
->Release year and the show added to Netflix stream
->Genre and description of that particular show or movie
->Insights on total movies and TV shows by country
->Top 10 genres
->Movies and TV shows distribution
->Total movies and TV shows by year
->Number of shows by ratings
+1.Rating of Netflix shows
+2.Duration of the show
+3.Release year and the show added to Netflix stream
+4.Genre and description of that particular show or movie
+5.Insights on total movies and TV shows by country
+6.Top 10 genres
+7.Movies and TV shows distribution
+8.Total movies and TV shows by year
+9.Number of shows by ratings
 
 Dashboard:
+<img width="800" alt="NETFLIX DASHBOARD" src="https://user-images.githubusercontent.com/112420165/233814596-69c58673-059f-49f1-aaf2-3f97dc862972.png">
  
 Insights:
 
